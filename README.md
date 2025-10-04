@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently an student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
+- 🎓 Currently a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
 - 🌱 I’m currently learning **Information Security**.  
 - 🤖 Passionate about **Web Penetration Testing**
 - 🏆 Experienced with **CTF competitions**.  
@@ -57,12 +57,6 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=leminhhung2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
