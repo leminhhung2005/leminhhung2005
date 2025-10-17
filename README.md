@@ -8,11 +8,10 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently a student at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.  
-- 🌱 I’m currently learning **Information Security**.  
+- 🎓 I'm **Lê Minh Hưng** – a third-year student majoring in **Information Security** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**. 
 - 🤖 Passionate about **Web Penetration Testing**
 - 🏆 Experienced with **CTF competitions**.  
-- ✍️ Love sharing knowledge, writing technical notes, and contributing to open-source projects.  
+- ✍️ Love sharing knowledge, writing technical notes, and hunting for vulnerability.  
 - 📫 How to reach me **leminhhungqt2005@gmail.com**
 
 ---
