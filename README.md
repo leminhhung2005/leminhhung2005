@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 - 🎓 I'm **Lê Minh Hưng** – a third-year student majoring in **Information Security** at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**. 
-- 🤖 Passionate about **Network Security**
+- 🤖 Passionate about **SOC**
 - 🏆 Experienced with **CTF competitions**.  
 - ✍️ Love sharing knowledge and writing technical notes.  
 - 📫 How to reach me **leminhhungqt2005@gmail.com**
