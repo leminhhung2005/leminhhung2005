@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there! I'm <b>Lê Minh Hưng</b></h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;HCMUTE+Student;Active+Learner+%26+Researcher;Dream:Web+Pentester">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub;HCMUTE+Student;Active+Learner+%26+Researcher;Dream:Network Security">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me  
 - 🎓 I'm **Lê Minh Hưng** – a third-year student majoring in **Information Security** at **Ho Chi Minh City University of Technology and Engineering (HCMUTE)**. 
-- 🤖 Passionate about **SOC**
+- 🤖 Passionate about **Network Security**
 - 🏆 Experienced with **CTF competitions**.  
 - ✍️ Love sharing knowledge and writing technical notes.  
 - 📫 How to reach me **leminhhungqt2005@gmail.com**
