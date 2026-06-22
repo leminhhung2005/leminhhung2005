@@ -19,7 +19,7 @@
 - 🛡️ **Focus:** Passionate about **Network Security & SOC**.
 - 🎯 **Current Goals:** Preparing for **CCNA** and **Comptia Security+** official exam.
 - 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**.
-- 📫 **Contact:** [leminhhungqt2005@gmail.com](mailto:leminhhungqt2005@gmail.com) 
+- 📫 **Contact:** ✉ [leminhhungqt2005@gmail.com](mailto:leminhhungqt2005@gmail.com) and 📞 0914348645
 
 ---
 
