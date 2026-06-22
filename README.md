@@ -18,7 +18,7 @@
 - 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
 - 🛡️ **Focus:** Passionate about **Network Security & SOC**
 - 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**
-- 🎯 **Current Goals:** Mastering **FortiGate Firewall Administration** and achieving **CCNA**
+- 🎯 **Current Goals:** Preparing for **CCNA** and **Comptia Security+** official exam.
 - 📫 **Contact:** [leminhhungqt2005@gmail.com](mailto:leminhhungqt2005@gmail.com) 
 
 ---
