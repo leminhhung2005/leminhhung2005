@@ -12,7 +12,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/GPA-3.25%2F4.0-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Network%20Security%20%7C%20SOC-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Seeking%20Network%20Security%20%7C%20SOC%20Internship-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Seeking%20Network%20Security%20%7C%20SOC%20Intern-orange?style=flat-square" />
 </p>
 
 - 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**.
