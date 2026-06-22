@@ -15,10 +15,10 @@
   <img src="https://img.shields.io/badge/Status-Seeking%20Network%20Security%20%7C%20SOC%20Internship-orange?style=flat-square" />
 </p>
 
-- 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
-- 🛡️ **Focus:** Passionate about **Network Security & SOC**
+- 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**.
+- 🛡️ **Focus:** Passionate about **Network Security & SOC**.
 - 🎯 **Current Goals:** Preparing for **CCNA** and **Comptia Security+** official exam.
-- 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**
+- 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**.
 - 📫 **Contact:** [leminhhungqt2005@gmail.com](mailto:leminhhungqt2005@gmail.com) 
 
 ---
@@ -51,7 +51,7 @@
 
 - **AI-Powered Security Alert Triage Pipeline:** Automated SOC workflows including alert classification, **MITRE ATT&CK** mapping, threat intelligence enrichment, incident investigation, and response orchestration.
 - **FortiGate Security Lab:** Implemented enterprise firewall security controls including IPS, Antivirus, SSL Inspection, Web Filtering, and Captive Portal.
-- **Enterprise Network Design:** Architected a 3-site secure network with **SD-WAN**, **IPSec VPN**, and **High Availability (HA)**
+- **Enterprise Network Design:** Architected a 3-site secure network with **SD-WAN**, **IPSec VPN**, and **High Availability (HA)**.
 
 ---
 
