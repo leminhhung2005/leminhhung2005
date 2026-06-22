@@ -17,8 +17,8 @@
 
 - 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**
 - 🛡️ **Focus:** Passionate about **Network Security & SOC**
-- 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**
 - 🎯 **Current Goals:** Preparing for **CCNA** and **Comptia Security+** official exam.
+- 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**
 - 📫 **Contact:** [leminhhungqt2005@gmail.com](mailto:leminhhungqt2005@gmail.com) 
 
 ---
@@ -48,7 +48,9 @@
 ---
 
 ## 🚀 Key Projects
-- **Internal Firewall Configuration:** Deployed **FortiGate 80E** to protect server farms using IPS, Antivirus, and SSL Inspection
+
+- **AI-Powered Security Alert Triage Pipeline:** Automated SOC workflows including alert classification, **MITRE ATT&CK** mapping, threat intelligence enrichment, incident investigation, and response orchestration.
+- **FortiGate Security Lab:** Implemented enterprise firewall security controls including IPS, Antivirus, SSL Inspection, Web Filtering, and Captive Portal.
 - **Enterprise Network Design:** Architected a 3-site secure network with **SD-WAN**, **IPSec VPN**, and **High Availability (HA)**
 
 ---
