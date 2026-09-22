@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Status-Seeking%20Network%20Security%20%7C%20SOC%20Intern-orange?style=flat-square" />
 </p>
 
-- 🎓 **Education:** Third-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**.
+- 🎓 **Education:** Final-year **Information Security** student at **Ho Chi Minh City University of Technology and Engineering (HCM-UTE)**.
 - 🛡️ **Focus:** Passionate about **Network Security & SOC**.
 - 🎯 **Current Goals:** Preparing for **CCNA** and **Comptia Security+** official exam.
 - 🏆 **Competitions:** Active participant in **Net Challenge** and **CTF competitions**.
